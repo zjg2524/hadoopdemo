@@ -1,0 +1,1 @@
+# 1. win10系统需要在org.apache.hadoop.io.nativeio包下添加NativeIO.java文件
